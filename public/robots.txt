@@ -1,0 +1,5 @@
+# robots.txt for Royya Chakravarthi Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://chakravarthi-portfolio.netlify.app/sitemap.xml
